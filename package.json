@@ -51,7 +51,7 @@
   "dependencies": {
     "bech32": "^1.1.2",
     "bip174": "^1.0.1",
-    "bip32": "git+https://github.com/mdfkbtc/bip32.git",
+    "bip32": "git+https://github.com/mdfkbtc/bid-bip32.git",
     "bip66": "^1.1.0",
     "bitcoin-ops": "^1.4.0",
     "bs58check": "^2.0.0",
